@@ -6,4 +6,5 @@ The aim of this project is to develop and implement enhanced data transmission t
 
 ## User Interface
 ![Main UI](UI.png)
+
 ![History UI Section](history-ui.png)
